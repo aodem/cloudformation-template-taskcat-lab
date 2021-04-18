@@ -1,7 +1,0 @@
-project:
-  name: my-project
-  regions:
-  - us-east-2
-tests:
-  default:
-    template: ../templates/taskcat-ci-pipeline.yaml

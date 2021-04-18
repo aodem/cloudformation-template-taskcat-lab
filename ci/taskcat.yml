@@ -4,4 +4,4 @@ project:
   - us-east-2
 tests:
   default:
-    template: ./templates/taskcat-ci-pipeline.yml
+    template: ../templates/taskcat-ci-pipeline.template
